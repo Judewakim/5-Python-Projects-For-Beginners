@@ -1,7 +1,17 @@
 <h1>Python-Mini-Games</h1>
 
 <h2>Choose Your Own Adventure</h2>
-<h4>The logic behind this beginner level mini game is as follows: </h4>
+<h4>The logic behind this beginner level mini game is as follows: 
+<br>
+<br>
+1. Game asks user for their name and welcomes them<br>
+2. A question is presented and has only two options <br>
+3. If you enter the first option another question is presented and has only two options<br>
+4. If you enter the second option a different question is presented and has only two options<br>
+<br>
+I hope you understand the point. <br>
+You can have more than two options as answer choices if you can keep up with the storyline for all three branches
+</h4>
 
 <h2>Rock, Paper, Scissors</h2>
 <h4>The logic behind this beginner level mini game is as follows: 
